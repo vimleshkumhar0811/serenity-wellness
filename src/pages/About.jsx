@@ -86,9 +86,9 @@ function About() {
               { label: "Legal Name", value: "Serenity Wellness and Hospitality, SIA" },
               { label: "Registration No.", value: "40203716341" },
               { label: "Registered", value: "29 January 2026" },
-              { label: "Share Capital", value: "20.00 EUR (fully paid)" },
+              // { label: "Share Capital", value: "20.00 EUR (fully paid)" },
               { label: "Legal Address", value: "Bebru iela 22 - 40, Jēkabpils, LV-5201, Latvia" },
-              { label: "VAT Status", value: "Not registered in VAT payers register" },
+              // { label: "VAT Status", value: "Not registered in VAT payers register" },
             ].map((fact, idx) => (
               <motion.div
                 key={idx}

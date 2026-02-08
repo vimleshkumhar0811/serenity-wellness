@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { Link, NavLink } from 'react-router-dom';
 import { motion } from 'framer-motion';
-import logo from '/src/assets/logo.png'; // Adjust if needed
+import logo from '/src/assets/logo.jpeg'; // Adjust if needed
 
 function Header() {
   const [isOpen, setIsOpen] = useState(false);
@@ -18,7 +18,7 @@ function Header() {
     >
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         <Link to="/" className="flex items-center space-x-2" onClick={closeMenu}>
-          <img src={logo} alt="Serenity Logo" className="h-10" />
+          <img src={logo} alt="Serenity Logo" className="h-15 rounded-lg" />
           <span className="text-2xl font-bold">Serenity Wellness</span>
         </Link>
         <nav className="hidden md:flex space-x-6">
