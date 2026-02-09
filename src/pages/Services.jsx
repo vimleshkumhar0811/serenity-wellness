@@ -50,12 +50,12 @@ const services = [
     icon: "🧘",
     highlight: "Morning & Sunset Sessions"
   },
-  {
-    title: "Luxury Accommodation",
-    description: "Elegant rooms and suites with premium bedding, natural light, private balconies, and wellness-inspired interiors for deep relaxation.",
-    icon: "🛏️",
-    highlight: "Nature-View Suites"
-  },
+  // {
+  //   title: "Luxury Accommodation",
+  //   description: "Elegant rooms and suites with premium bedding, natural light, private balconies, and wellness-inspired interiors for deep relaxation.",
+  //   icon: "🛏️",
+  //   highlight: "Nature-View Suites"
+  // },
   {
     title: "Personalized Wellness Programs",
     description: "Tailored health journeys including nutrition planning, detox programs, sleep enhancement, and stress management consultations.",

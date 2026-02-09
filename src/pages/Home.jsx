@@ -101,11 +101,11 @@ function Home() {
               desc: "Revitalizing spa treatments, yoga, meditation, and holistic therapies designed to restore balance.",
               icon: "🧘‍♀️"
             },
-            {
-              title: "Luxury Accommodation",
-              desc: "Elegant rooms and suites with modern amenities in a calm, natural setting.",
-              icon: "🏡"
-            },
+            // {
+            //   title: "Luxury Accommodation",
+            //   desc: "Elegant rooms and suites with modern amenities in a calm, natural setting.",
+            //   icon: "🏡"
+            // },
             {
               title: "Personalized Hospitality",
               desc: "Attentive service tailored to your needs — from dietary preferences to activity planning.",
